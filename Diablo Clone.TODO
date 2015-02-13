@@ -52,3 +52,7 @@ Enemy types:
   ☐ leader enemy (make fodder enemies follow this enemy while there is no player around)
   ☐ ranged enemy (shoot player...)
     ☐ run from player if health is below threshold
+
+Enemy Flocking:
+  ☐ fodder follows enemies
+  ☐ seperate from other enemies in the area
